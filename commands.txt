@@ -1,0 +1,14 @@
+#node js version check
+node -v
+
+#npm version check
+npm -v
+
+#package.json file creation
+npm init -y
+
+#express install
+npm install express
+
+#nodemon install
+npm install nodemon
